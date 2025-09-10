@@ -1,7 +1,9 @@
-penyelesaian
+1. Login Jim
+
+2. https://juice-shop.herokuapp.com/#/search
 
 
-Target dari Injection kali ini adalah Log in with Jim's user account. maka kita bisa memeriksa review yang ada di juice shop 1 1 untuk mencari tau apakah ada email dari jim yang memberikan review.
+3. Target dari Injection kali ini adalah Log in with Jim's user account. maka kita bisa memeriksa review yang ada di juice shop 1 1 untuk mencari tau apakah ada email dari jim yang memberikan review.
 1. Disini saya menemukan email jim ada di review Green Smoothie
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e83aea6-c454-4938-85be-8d26fd75d283" />
 2. Kemudian menggunakan payload '-- dibelakang email agar tabel password di anggap tidak perlu
